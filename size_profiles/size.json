@@ -1,0 +1,137 @@
+{
+    "A": [
+        { 
+            "name"   : "A0",
+            "width"  : 9933,
+            "height" : 14043
+        },
+        { 
+            "name"   : "A1+",
+            "width"  : 8469,
+            "height" : 11988
+        }, 
+        { 
+            "name"   : "A1",
+            "width"  : 7016,
+            "height" : 9933
+        },     
+        { 
+            "name"   : "A2",
+            "width"  : 4960,
+            "height" : 7016
+        },     
+        { 
+            "name"   : "A3",
+            "width"  : 3508,
+            "height" : 4960
+        },     
+        { 
+            "name"   : "A4",
+            "width"  : 2480,
+            "height" : 3508
+        }
+    ],
+    "1:1": [
+        { 
+            "name"   : "1000x1000",
+            "width"  : 11811,
+            "height" : 11811
+        },
+        { 
+            "name"   : "800x800",
+            "width"  : 9449,
+            "height" : 9449
+        },
+        {   
+            "name"   : "600x600",
+            "width"  : 7087,
+            "height" : 7087
+        },
+        { 
+            "name"   : "400x400",
+            "width"  : 4724,
+            "height" : 4724
+        },
+        { 
+            "name"   : "200x200",
+            "width"  : 2362,
+            "height" : 2362
+        }
+    ],
+    "3:2": [
+        { 
+            "name"   : "1200x800",
+            "width"  : 9449,
+            "height" : 14173
+        },
+        { 
+            "name"   : "900x600",
+            "width"  : 7087,
+            "height" : 10630
+        },
+        {   
+            "name"   : "600x400",
+            "width"  : 4724,
+            "height" : 7087
+        },
+        { 
+            "name"   : "450x300",
+            "width"  : 3543,
+            "height" : 5315
+        },
+        { 
+            "name"   : "300x200",
+            "width"  : 2362,
+            "height" : 3543
+        }
+    ],
+    "4:3": [
+        { 
+            "name"   : "1000x750",
+            "width"  : 8858,
+            "height" : 11811
+        },
+        { 
+            "name"   : "800x600",
+            "width"  : 7087,
+            "height" : 9449
+        },
+        {   
+            "name"   : "600x450",
+            "width"  : 5315,
+            "height" : 7087
+        },
+        { 
+            "name"   : "400x300",
+            "width"  : 3543,
+            "height" : 4724
+        }
+    ],
+    "5:4": [
+        { 
+            "name"   : "1000x800",
+            "width"  : 9449,
+            "height" : 11811
+        },
+        { 
+            "name"   : "800x640",
+            "width"  : 7559,
+            "height" : 9449
+        },
+        {   
+            "name"   : "600x480",
+            "width"  : 5669,
+            "height" : 7087
+        },
+        { 
+            "name"   : "500x400",
+            "width"  : 4724,
+            "height" : 5906
+        },
+        { 
+            "name"   : "400x320",
+            "width"  : 3779,
+            "height" : 4724
+        }
+    ]
+}
